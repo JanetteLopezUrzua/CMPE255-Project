@@ -6,6 +6,9 @@ The Behavioral Risk Factor Surveillance System (BRFSS) is a public health survey
 
 The latest information offered by BRFSS is from the year 2015. In this project, the objective is to use the data from the latest year to predict the susceptibility of 4 different health issues: heart attack, diabetes, cancer, and depression based on other health information collected from various people.
 
+![alt text](https://github.com/JanetteLopezUrzua/CMPE255-Project/blob/main/System%20Design.png?raw=true)
+
+
 ### Heart Attack
 #### Prerequisites
 * Install Anaconda from https://www.anaconda.com/products/individual. It should include Jupyter Notebook.
