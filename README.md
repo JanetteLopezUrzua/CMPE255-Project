@@ -7,5 +7,5 @@
     
     `conda install -c anaconda py-xgboost`
 ### Open Notebook CMPE255_Project_Classifications.ipynb
-  * Change the Read data cell from 'data/preprocessed_dataset.csv' to 'data/small_size_dataset.csv' for training and testing the model for small dataset.
+  * Change the Read data cell from 'data/preprocessed_dataset.csv' or 'data/2015.csv' to 'data/small_size_dataset.csv' or 'data/preprocessed_dataset_test.csv'for training and testing the model for small dataset.
   * Train all the models and check for the recall scores for performance.
