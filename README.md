@@ -9,7 +9,7 @@ The latest information offered by BRFSS is from the year 2015. In this project, 
 ![alt text](https://github.com/JanetteLopezUrzua/CMPE255-Project/blob/main/System%20Design.png?raw=true)
 
 
-### Heart Attack
+### Heart Attack Prediction
 #### Prerequisites
 * Install Anaconda from https://www.anaconda.com/products/individual. It should include Jupyter Notebook.
 * Install XGBoost by going to Heart attack folder > CMPE255_Project_Preprocessing.ipynb, uncomment the first line that says "#!pip install xgboost" and run it.
